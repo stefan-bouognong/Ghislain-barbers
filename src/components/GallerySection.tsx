@@ -3,6 +3,7 @@ import haircut2 from "@/assets/haircut-2.jpg";
 import beardStyle from "@/assets/beard-style.jpg";
 import womenStyle from "@/assets/women-style.jpg";
 import barberAtWork from "@/assets/barber-at-work.jpg";
+
 import heroImage from "@/assets/hero-barber.jpg";
 
 const galleryImages = [
